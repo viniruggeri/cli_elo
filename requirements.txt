@@ -1,0 +1,7 @@
+sqlmodel
+oracledb
+pydantic
+typer
+tabulate
+cryptography
+rich
